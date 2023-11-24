@@ -1,0 +1,58 @@
+html{
+    width: 100%
+}
+body{
+    width: 100%;
+    margin: 0;
+    /* background-image: url(/images/galerry/beauty-fashion-portrait-young-blond-woman-model-with-natural-makeup-perfect-skin-with-bright-flowers-posing.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+.img{
+     position: absolute;
+     margin-bottom: 50px;
+     position: absolute;
+    width: 100%;
+    height:  100%; 
+}
+.heading{
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 10px;
+    
+    width: max-content;
+    font-size: 80px;
+    font-family:'Courier New', Courier, monospace ;
+    color:#FFF
+}
+.logo1{
+    margin-top: 30%;
+    margin-left: 20%;
+    position: absolute;
+    width: 200px;
+    height: 150px;
+}
+.button {
+        position: absolute;
+        margin-top:  10px;
+        margin-left: 75px;
+        display: inline-block;
+        width: 50px;
+}
+.homeButton{
+        position:sticky;
+        cursor: pointer;
+        width: 50px;
+}
+.lookhere{
+    margin-top:35% ;
+    margin-left: 33%;
+    position: absolute;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #FFF;
+    font-weight: bold
+}
+.logo{
+    cursor: pointer;
+}

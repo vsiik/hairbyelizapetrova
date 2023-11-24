@@ -29,6 +29,7 @@ body{
     
 }
 .homeButton{
+    cursor: pointer;
     position:sticky;
     width: 50px;
   
