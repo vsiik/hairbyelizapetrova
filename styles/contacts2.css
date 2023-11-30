@@ -1,0 +1,46 @@
+html{
+    width: 100%;
+}
+body{
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    background-image: url(/images/contacst/contactsbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    margin:auto;
+    margin-top: 5%;
+    border: 10px solid rgb(73, 72, 72);
+    background-color: rgb(158, 157, 157);
+    opacity: 60%;
+    width: max-content;
+
+}
+.button {
+    position:sticky;
+    margin-top: 10px;
+    margin-left: 75px;
+    width: max-content;
+   
+}
+.homeButton{
+    cursor: pointer;
+    width: 50px;
+}
+div>p{
+    position: relative;
+    width: max-content;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:2.5em;
+    text-align: center;
+    font-weight: bold;
+    margin:auto;
+    padding-top: 30px;
+    color:  rgb(0, 0, 0);
+  
+}
+.map{
+ text-align: center;
+}
