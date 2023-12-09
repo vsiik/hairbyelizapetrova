@@ -5,7 +5,7 @@ body{
     position: absolute;
     margin: 0;
     width: 100%;
-    background-image: url(/images/contacst/contactsbg.jpg);
+    background-image: url(../images/contacst/contactsbg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -23,7 +23,7 @@ body{
     margin-top: 10px;
     margin-left: 75px;
     width: max-content;
-   
+
 }
 .homeButton{
     cursor: pointer;
@@ -39,7 +39,7 @@ div>p{
     margin:auto;
     padding-top: 30px;
     color:  rgb(0, 0, 0);
-  
+
 }
 .map{
  text-align: center;
