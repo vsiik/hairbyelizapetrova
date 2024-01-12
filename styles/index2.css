@@ -1,0 +1,79 @@
+html{
+width: 100%;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    background-image: url(../images/homepage/homePageImage.jpg);
+    background-size: cover;
+
+}
+
+.backgroundImage{
+    position: relative;
+}
+
+.conatinerNavItems {
+    text-align: center;
+}
+
+.navigationBar {
+    text-align: center;
+}
+
+.navigationItems li{
+    text-align: center;
+    display: inline-block;
+    padding-left: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+     font-weight:bold;
+}
+
+.navigationItems li a{
+    text-decoration: none;
+    color: white;
+}
+
+.home{
+    float: left;
+    width: 20px;
+    height: 20px;
+}
+
+.homeButton{
+    width: 50px;
+    position: fixed;
+}
+
+.test {
+    margin-left: 30%;
+    margin-top: 50px;
+    display: inline-block;
+    color: #fff;
+}
+.test div{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif cursive;
+    font-size:100px;
+
+}
+.popUp{
+    font-family:serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    border: 3px solid black;
+    float: right;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    background-color: lightgrey;
+    display: none;
+    margin-top: 360px;
+}
+.textPopUp{
+    opacity: 100%;
+}
